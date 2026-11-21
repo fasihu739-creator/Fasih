@@ -1,0 +1,8 @@
+{
+  "name": "AI Engineering Intelligence Brain",
+  "description": "Engineering intelligence platform for UK software organisations connecting technical decisions, code changes, dependencies, historical incidents, and change impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
